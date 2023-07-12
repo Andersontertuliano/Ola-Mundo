@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula do Curso em vídeo!
 
- Linha adicionada diretamente no pelo Site.
+ Linha adicionada diretamente  pelo Site.
